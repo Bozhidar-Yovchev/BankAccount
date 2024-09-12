@@ -1,0 +1,7 @@
+D:\Projects - GitHub\BankAccount\bin\Debug\BankAccount.exe.config
+D:\Projects - GitHub\BankAccount\bin\Debug\BankAccount.exe
+D:\Projects - GitHub\BankAccount\bin\Debug\BankAccount.pdb
+D:\Projects - GitHub\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+D:\Projects - GitHub\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+D:\Projects - GitHub\BankAccount\obj\Debug\BankAccount.exe
+D:\Projects - GitHub\BankAccount\obj\Debug\BankAccount.pdb
